@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Frontend Development, and DevOps**  
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/Fazal-Khan05)  
-- 📫 How to reach me: **fazal.khan@example.com** (replace with your email)  
+- 📫 How to reach me: **fazalk3368@gmail.com**   
 - ⚡ Fun fact: I love building projects that combine **tech + creativity** 🚀  
 
 ---
